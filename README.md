@@ -60,9 +60,6 @@ The notebook implements the following clustering algorithms:
    jupyter notebook Wholesale\ Cluster-Students.ipynb
    ```
 
-## Dataset
-The dataset is assumed to be included in the notebook. Ensure the data is loaded correctly before running the clustering algorithms.
-
 ## Results
 - Provides insights into customer segmentation based on purchasing patterns.
 - Visual representations of clustering results.
